@@ -43,4 +43,4 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
 
  ## Screenshot of DashBoard
 
-![](https://user-images.githubusercontent.com/47891452 180658879-96ca0b80-41a4-496c-9d61-83b4e1333daa.PNG)
+![](https://user-images.githubusercontent.com/47891452/180658879-96ca0b80-41a4-496c-9d61-83b4e1333daa.PNG)
