@@ -8,8 +8,9 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
   - Updating products
   - Deleting products
   - Manage Orders
+  - Getting Stocks
   
-**User**
+**Customers**
   - Registering into System
   - Login into Website
   - Logout from Website
@@ -48,5 +49,27 @@ This is a Single Page Appliaction with client-side rendering. It includes backen
 ## Login Page
 
 ![](https://user-images.githubusercontent.com/47891452/180993746-9483949a-d1be-4393-9039-9e3aa4b55621.PNG)
+
+## SignUp Page
+
+![](https://user-images.githubusercontent.com/47891452/180995796-779de28b-c8f0-4607-a3e7-4be29b2418d2.PNG)
+
+## After Login
+
+![](https://user-images.githubusercontent.com/47891452/180996014-e1ef1104-11b2-4023-99bf-e3508282c9cd.PNG)
+
+## Shopping Cart
+
+![](https://user-images.githubusercontent.com/47891452/180996375-52bf8bbf-89e4-4d74-9a7b-a6f95ddb26dc.PNG)
+
+## Wishlist
+
+![](https://user-images.githubusercontent.com/47891452/180996607-d5f7f622-0d27-4ccd-b8e4-702c49395787.PNG)
+
+## Discount
+
+![](https://user-images.githubusercontent.com/47891452/180996767-537a117c-3d67-44f7-8a4d-3b4b3dc298db.PNG)
+
+
 
 
