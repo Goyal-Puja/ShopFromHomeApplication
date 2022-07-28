@@ -8,7 +8,7 @@ import { CartService } from 'src/app/service/cart.service';
 })
 export class CartComponent implements OnInit {
   public product : any = [];
-  public grandTotal !: number;
+  public grandTotal : number = 0;
 
   constructor(private cartService: CartService) { }
 
