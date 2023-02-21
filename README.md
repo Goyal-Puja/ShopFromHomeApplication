@@ -1,6 +1,6 @@
 ### Shop Form Home Application (Angular with SpringBoot Web Services)
 ---------
-This is a Single Page Appliaction with client-side rendering. It includes backend and frontend two separate projects on different branches. The frontend client makes API calls to the backend server when it is running.
+This is a web-based E-commerce site developed using Spring Boot and Angular. The website consists of two interfaces, one for the user and the other for the admin, which offer distinct features and functionality.
 
 ## Features available :
 **Admin**
